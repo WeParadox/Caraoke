@@ -1,0 +1,7 @@
+{
+  "name": "Caraoke",
+  "description": "A local-first karaoke web app with manual synchronization tools and voice recording.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
